@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
-import 'package:application/main.dart';
+import 'package:testingmoproglg/main.dart';
 
 abstract class NetworkInfoI {
   Future<bool> isConnected();
